@@ -44,6 +44,36 @@ For quick navigation, you can visit [AI Agent Marketplace](http://www.deepnlp.or
 | GUI Agent | 2023 | RCI | Language models can solve computer tasks | https://arxiv.org/abs/2303.17491 | - |
 | GUI Agent | 2023 | mobile UIs | Enabling conversational interaction with mobile ui using large language models. | https://arxiv.org/abs/2209.08655 | - | 
 
+### AI Agent in Healthcare
+
+| Application  | AI Agent| Description   |
+|  ----  | ----  | ----  |
+|  Clinical Decision Support  | [IBM Watson Health](https://www.ibm.com/industries/healthcare) |  Helps analyze medical literature and patient data to provide evidence-based treatment recommendations. | 
+|  Clinical Decision Support  | [Infermedica](https://infermedica.com/) |  Provides diagnostic support and triage for healthcare professionals. | 
+|  Clinical Decision Support  | [Buoy Health](https://www.buoyhealth.com/) |  A chatbot for symptom checking and guiding users to appropriate care. | 
+|  Virtual Health Assistants  | [Ada Health](https://ada.com/) |  Symptom checker and health assessment app with AI-driven insights. | 
+|  Virtual Health Assistants  | [Babylon Health](https://en.wikipedia.org/wiki/Babylon_Health) |  Provides symptom checks, virtual consultations, and health monitoring tools. | 
+|  Virtual Health Assistants  | [Sensely](https://apps.apple.com/us/app/sensely/id871632284) |  A virtual assistant for managing chronic conditions and improving patient engagement. | 
+|  Patient Management  | [HealthTap](https://www.healthtap.com/telehealth/) |  Offers virtual doctor consultations and AI-based symptom checking. | 
+|  Patient Management  | [Ginger](https://my.ginger.com/) |  Mental health AI for providing chat-based therapy and support. | 
+|  Medical Imaging and Diagnostics  | [Aidoc](https://www.aidoc.com/) |  AI-powered imaging analysis for detecting anomalies in radiology scans. | 
+|  Medical Imaging and Diagnostics  | [Zebra Medical Vision](https://www.zebra.cn/cn/zh/solutions.html) |  Automates the analysis of medical imaging data for early detection of diseases. | 
+|  Medical Imaging and Diagnostics  | [Arterys](https://www.arterys.com/) |  Uses AI for advanced imaging in cardiology, oncology, and other specialties. | 
+|  Drug Discovery and Development  | [Atomwise](https://www.atomwise.com/) |  AI-driven platform for discovering potential drug compounds. | 
+|  Drug Discovery and Development  | [BenevolentAI](https://www.benevolent.com/) |  Combines AI and biomedical data to accelerate drug discovery. | 
+|  Drug Discovery and Development  | [DeepMind (AlphaFold)](https://deepmind.google/technologies/alphafold/) |  Revolutionizes protein folding predictions for pharmaceutical research. | 
+|  Mental Health and Therapy  |  [Woebot](https://woebothealth.com/) |  A chatbot offering cognitive behavioral therapy (CBT) for anxiety and depression. | 
+|  Mental Health and Therapy  |  [Replika](https://replika.com/) |  Acts as a conversational agent for emotional support and companionship. | 
+|  Mental Health and Therapy  |  [Wysa](https://www.wysa.com/) |  AI for mental health assistance, focusing on stress and emotional well-being. | 
+|  Personalized Medicine  |  [23andMe AI](https://therapeutics.23andme.com/our-platform/) |  Uses genetic data to provide personalized health insights and risk assessments. | 
+|  Personalized Medicine  |  [Tempus](https://www.tempus.com/) |  Employs AI to personalize cancer treatments based on genetic and molecular data. | 
+|  Chronic Disease Management  |  [Livongo](https://www.livongo.com/) |  Combines AI with connected devices for managing diabetes, hypertension, and weight loss. | 
+|  Chronic Disease Management  |  [Omada Health](https://www.omadahealth.com/) |  AI-based coaching for chronic disease prevention and management. | 
+|  Elderly Care and Accessibility |  [EllieQ by Intuition Robotics](https://elliq.com/) |  AI companion for reducing loneliness and enhancing quality of life in seniors. | 
+|  Elderly Care and Accessibility |  [Paro Robot](https://www.parorobots.com/) | Therapeutic AI robot designed for dementia and Alzheimer’s patients. | 
+|  Workflow Optimization |  [DeepScribe](https://www.deepscribe.ai/) | AI-powered medical scribe to automate clinical documentation. | 
+|  Workflow Optimization |  [Nuance Dragon Medical](https://www.nuance.com/healthcare/dragon-ai-clinical-solutions.html) | Speech recognition AI for documenting patient encounters. | 
+
 
 # Reference
 
